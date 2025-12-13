@@ -9,7 +9,7 @@ Think low-level, Code high-level
 - 🎭 Fun fact: I love coding and problem-solving!
 - 📧 You can mail me here [rutikasripotnuru20@gmail.com](mailto:rutikasripotnuru20@gmail.com)
 - 🌐 You can check my [portfolio](https://your-portfolio-link.com)
-- 📄 View my [Resume](https://your-resume-link.com)
+- 📄 View my [Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1bQ3PdrFMtRShY0yKX1gdJQxE8vbZv7da/view?usp=drive_link))
 
 ## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/potnuru-rutikasri/)
@@ -26,9 +26,7 @@ Think low-level, Code high-level
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-FF6F00?style=for-the-badge&logo=cloud&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rutikasri&show_icons=true&theme=radical)
