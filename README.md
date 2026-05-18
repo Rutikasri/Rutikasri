@@ -1,47 +1,46 @@
 # Hi, I'm Rutika 👋
 
-Final-year B.Tech (CSE - AI & ML) student graduating in 2026.  
-Focused on building practical Machine Learning and NLP systems.
+Recent B.Tech graduate in Computer Science (AI & ML) passionate about building practical Machine Learning and NLP applications.
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Work On
 - Machine Learning models for real-world problems  
-- NLP applications (text classification, sentiment analysis)  
-- Data-driven systems with end-to-end workflows  
+- NLP applications and text classification systems
+- End-to-end AI workflows from preprocessing to prediction
 
 ---
 
 ## 🧠 Featured Projects
 
 ### 🔹 AI vs Human Text Classification
-Classifies AI-generated vs human-written text using TF-IDF and ML models.  
-→ Includes preprocessing, vectorization, and model evaluation  
+Built an NLP-based classification system to detect AI-generated and human-written text using TF-IDF vectorization and machine learning models.
 
 ### 🔹 Sentiment Analysis (ML + NLP)
-Built using Naive Bayes & Logistic Regression with NLP preprocessing techniques.  
-→ Achieved **XX% accuracy** (update this)  
+Developed sentiment analysis models using Naive Bayes and Logistic Regression with text preprocessing and feature extraction techniques.
 
-### 🔹 Student Activity Monitoring System
-Data-driven system for tracking tasks and activities with structured insights.  
-
+### 🔹 AI Chatbot using LLaMA & Groq API
+Built a conversational AI chatbot using LLaMA models and prompt engineering techniques with an interactive Gradio interface.
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python  
-- **ML/NLP:** Scikit-learn, NLP preprocessing, TF-IDF  
+- **Languages:** Python
+- **Machine Learning:** Data Preprocessing, Model Training, Evaluation Techniques
+- **Deep Learning:** ANN, CNN, RNN using PyTorch
+- **NLP&LLMs:** Text Classification, Prompt Engineering, RAG Pipelines, Transformer Models
+- **Libraries and Frameworks:** PyTorch, Scikit-learn, Numpy, Pandas  
 - **Tools:** GitHub, Google Colab, VS Code  
-- **Learning:** PyTorch, Transformers, Generative AI  
+- **Database:** SQL
 
 ---
 
-## 📈 What I'm Improving Now
-- Transformer-based models (BERT)  
-- Multimodal AI systems  
-- OCR-based document processing  
+## 📈 Currently Learning  
+- Transformer-based Models (BERT)
+- Generative AI & RAG Pipelines
+- Multimodal AI Systems
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/potnuru-rutikasri/  
 - Email: rutikasripotnuru20@gmail.com  
