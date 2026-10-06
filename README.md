@@ -246,7 +246,7 @@ I’m particularly interested in roles where **data, machine learning and softwa
 
 📧 **Email:** [rutikasripotnuru20@gmail.com](mailto:rutikasripotnuru20@gmail.com)
 
-💻 **GitHub:** [github.com](https://github.com/Rutikasri)
+💻 **GitHub:** [github.com//github.com/Rutikasri](https://github.com/Rutikasri)
 
 ---
 
