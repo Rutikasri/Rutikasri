@@ -7,10 +7,15 @@ Recent **B.Tech graduate in Computer Science & Engineering (AI & ML)** passionat
 I enjoy working across the complete data and AI lifecycle — from **data collection, cleaning, SQL analysis and feature engineering to machine learning, deep learning, LLM applications, RAG pipelines, and deployment**.
 
 💡 **Core Focus:** AI/ML · Data Science · Data Analytics · Data Engineering · Generative AI
+
 🐍 **Primary Language:** Python
+
 📊 **Data:** SQL · Pandas · NumPy · Data Preprocessing · EDA
+
 🤖 **AI/ML:** Scikit-learn · PyTorch · NLP · Deep Learning · Transformers
+
 🧠 **GenAI:** LLMs · RAG · Vector Databases · Prompt Engineering
+
 ☁️ **Cloud & Tools:** GCP · BigQuery · Cloud Storage · Git · GitHub · Google Colab
 
 ---
